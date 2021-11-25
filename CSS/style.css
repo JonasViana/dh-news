@@ -1,0 +1,33 @@
+body {
+    font-family: "Rajdhani", sans-serif;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .titulo {
+    
+    font-family: 'Rajdhani';
+    color:#EC183F;
+    font-size: 40px;
+  }
+  header p{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+  }
+  .imgprincipal{
+    width: 100%;
+  }
+  
+  .caixa3{
+    border-bottom: solid 1px #ccc;
+    padding-bottom: 40px;
+   
+  }
+  .footer {
+    width: fit-content;
+    margin: 0 auto;
+    padding-top: 20px;
+  }
+  
